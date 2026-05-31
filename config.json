@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcarse",
+        "uuid": 9648737,
+        "checksum": "xhajjh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
